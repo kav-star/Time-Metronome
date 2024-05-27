@@ -1,12 +1,14 @@
  Time-Metronome
 
 
-** Time Metronome User Manual**
-Overview
+**Time Metronome User Manual**
+
+**Overview**
 The Time Metronome application is designed to help users manage their time effectively by 
 providing a simple timer and accessible information about the application. This manual provides 
 instructions on how to navigate and use the features available in the application.
-Contents
+
+**Contents**
 Getting Started
 Navigating the Application
 Home Page
